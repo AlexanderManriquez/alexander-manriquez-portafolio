@@ -73,7 +73,7 @@
                 >Proyectos</RouterLink
               >
               <RouterLink
-                href="#"
+                to="/about"
                 class="rounded-md px-3 py-2 text-sm font-medium text-white hover:bg-gray-700 hover:text-gray-300"
                 >Acerca de mi</RouterLink
               >
