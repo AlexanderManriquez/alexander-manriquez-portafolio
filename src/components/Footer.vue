@@ -15,7 +15,7 @@
         <i class="fa-brands fa-github text-white"></i>
       </a>
     </div>  
-      <p class="ml-2">&copy; 2024 Alexander Manríquez. Todos los derechos reservados.</p>
+      <p class="ml-2">&copy; 2024 Alexander Manríquez.</p>
 
   </footer>
 </template>

@@ -3,12 +3,13 @@
         <p class="text-xl font-bold mb-4 text-center">Conoce algunos proyectos que he desarrollado</p>
         <ul class="grid grid-cols-1 md:grid-cols-3 gap-4">
             <li v-for="project in projects" :key="project.id" class="border rounded-lg overflow-hidden shadow-lg">
-                <a :href="project.url" class="block">
+                <a :href="project.url" class="block" target="_blank">
                     <img :src="project.image" :alt="project.name" class="w-full h-48 md:h-64 object-cover">
                 </a>
                 <p class="p-4 md:p-6 text-center">{{ project.name }}</p>
             </li>
         </ul>
+        <p class="text-center mt-10 p-4">Si deseas ver todos mis proyectos, visita mi <a href="https://github.com/AlexanderManriquez/" target="_blank" class="underline"><b>Github.</b></a></p>
     </div>
 </template>
 
