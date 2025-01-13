@@ -1,12 +1,12 @@
 <template>
-  <main class="flex flex-row justify-around my-2 fade-in">
-    <figure class="w-1/3 relative overflow-hidden">
+  <main class="flex flex-col md:flex-row justify-around my-2 fade-in">
+    <figure class="w-full md:w-1/3 relative overflow-hidden">
       <img
         class="p-1 rounded-2xl transition-transform duration-500"
         src="https://elcomercio.pe/resizer/v2/VLK3R6K3TZBODL7L7G2H7KK2LM.png?auth=3b9ee42737c1a53142f8f462821146741b364f0edddcb8835b800b3f08f57af1&width=1200&height=810&quality=90&smart=true"
       />
     </figure>
-    <article class="w-1/3 flex flex-col justify-center fade-in">
+    <article class="w-full md:w-1/3 flex flex-col justify-center fade-in">
       <h1 class="py-2 font-bold text-xl"><i class="fa-solid fa-hand text-orange-200"></i> ¡Hola y bienvenido a mi portafolio!</h1>
       <p class="py-2">
         Soy Alexander Manriquez, un apasionado desarrollador Front End enfocado en crear
@@ -17,8 +17,8 @@
       </p>
     </article>
   </main>
-  <article class="w-2/3 m-auto py-5 fade-in">
-    <ul class="w-1/2 m-auto text-center">
+  <article class="w-full md:w-2/3 m-auto py-5 fade-in">
+    <ul class="w-full md:w-1/2 m-auto text-center">
       <li class="py-1">Estoy comprometido con el desarrollo de páginas web que:</li>
       <li class="py-1 hover:text-zinc-400"><i class="fa-solid fa-mobile text-zinc-400"></i> Se adapten perfectamente a cualquier dispositivo.</li>
       <li class="py-1 hover:text-cyan-500"><i class="fa-solid fa-globe text-cyan-500"></i> Sean accesibles y fáciles de usar para todos.</li>
