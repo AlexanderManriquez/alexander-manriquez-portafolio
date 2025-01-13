@@ -3,7 +3,8 @@
     <figure class="w-full md:w-1/3 relative overflow-hidden">
       <img
         class="p-1 rounded-2xl transition-transform duration-500"
-        src="https://elcomercio.pe/resizer/v2/VLK3R6K3TZBODL7L7G2H7KK2LM.png?auth=3b9ee42737c1a53142f8f462821146741b364f0edddcb8835b800b3f08f57af1&width=1200&height=810&quality=90&smart=true"
+        src="../assets/alexander-manriquez.jpg"
+        alt="Alexander Manriquez"
       />
     </figure>
     <article class="w-full md:w-1/3 flex flex-col justify-center fade-in">
