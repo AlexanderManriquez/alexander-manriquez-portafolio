@@ -12,4 +12,13 @@ import Footer from './components/Footer.vue'
   </div>
 </template>
 
-<style scoped></style>
+<style>
+body {
+  background-color: #D9EDBF;
+  color: #2C7865;
+  font-family: "Baskervville", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+</style>
