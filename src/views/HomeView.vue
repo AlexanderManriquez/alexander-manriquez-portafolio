@@ -7,8 +7,8 @@
       />
     </figure>
     <article class="w-full md:w-1/3 flex flex-col justify-center fade-in">
-      <h1 class="py-2 font-bold text-xl"><i class="fa-solid fa-hand text-orange-200"></i> ¡Hola y bienvenido a mi portafolio!</h1>
-      <p class="py-2">
+      <h1 class="p-2 font-bold text-xl"><i class="fa-solid fa-hand text-orange-200"></i> ¡Hola y bienvenido a mi portafolio!</h1>
+      <p class="p-2">
         Soy Alexander Manriquez, un apasionado desarrollador Front End enfocado en crear
         experiencias web dinámicas, fluidas y modernas. Mi objetivo es construir interfaces que no
         solo luzcan increíbles, sino que también sean accesibles para todos. Con un sólido dominio

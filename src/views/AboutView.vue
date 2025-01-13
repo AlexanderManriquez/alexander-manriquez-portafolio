@@ -13,8 +13,8 @@
       </p>
     </section>
 
-    <section class="skills flex justify-center mt-8 fade-in">
-        <ul class="p-6">
+    <section class="skills flex flex-col md:flex-row justify-center mt-8 fade-in">
+      <ul class="p-6">
         <li>&nbsp;</li>
         <li class="font-semibold">Mis Habilidades</li>
       </ul>
@@ -31,18 +31,17 @@
       <ul class="p-6">
         <li><i class="fa-brands fa-github text-black"></i> Github</li>
         <li><i class="fa-brands fa-bootstrap text-indigo-600"></i> Bootstrap</li>
-        <li><i class="fa-brands fa-vuejs text-emerald-400"></i>   Vue.js</li>
+        <li><i class="fa-brands fa-vuejs text-emerald-400"></i> Vue.js</li>
       </ul>
     </section>
 
     <section class="contact-me mt-4 fade-in">
       <p class="text-center">
-        Si estás buscando un desarrollador Front End comprometido, creativo y apasionado, ¡no dudes
-        en contactarme!
+        Si estás buscando un desarrollador Front End comprometido, creativo y apasionado, ¡no dudes en contactarme!
       </p>
       <div class="block mx-auto mt-4 p-4 font-bold w-1/4 bg-slate-800 rounded-xl hover:bg-slate-700 transition duration-300">
-        <a href="mailto:alexander.manriquez.s@gmail.com" class="block text-center text-white"> Envíame un mensaje</a>
-      </div>     
+        <a href="mailto:alexander.manriquez.s@gmail.com" class="block text-center text-white">Escríbeme</a>
+      </div>
     </section>
   </div>
 </template>
@@ -52,7 +51,7 @@ export default {
   mounted() {
     const elements = document.querySelectorAll('.fade-in');
     elements.forEach((el, index) => {
-      el.style.animationDelay = `${index * 500}ms`;
+      el.style.animationDelay = `${index * 300}ms`;
       el.classList.add('visible');
     });
   }
@@ -73,7 +72,4 @@ export default {
   animation: fadeIn 1s forwards;
 }
 
-.hover\:bg-slate-700:hover {
-  background-color: #374151;
-}
 </style>
