@@ -1,35 +1,41 @@
-# alexander-manriquez-portafolio
+# Alexander Manriquez Portafolio
 
-This template should help get you started developing with Vue 3 in Vite.
+Este es el portafolio personal de Alexander Manriquez, un desarrollador Front End apasionado por crear experiencias web dinámicas, fluidas y modernas. El portafolio muestra proyectos, habilidades y proporciona información de contacto.
 
-## Recommended IDE Setup
+## Tabla de Contenidos
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [Descripción](#descripción)
+- [Características](#características)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Contacto](#contacto)
 
-## Customize configuration
+## Descripción
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Este proyecto es un portafolio personal que muestra los proyectos y habilidades adquiridas durante un año de estudio. 
 
-## Project Setup
+Está diseñado para ser responsivo y accesible, proporcionando una experiencia de usuario fluida en todos los dispositivos.
 
-```sh
-npm install
-```
+## Características
 
-### Compile and Hot-Reload for Development
+- Diseño responsivo
+- Animaciones suaves y transiciones
+- Navegación accesible
+- Optimización para SEO
 
-```sh
-npm run dev
-```
+## Tecnologías Utilizadas
 
-### Compile and Minify for Production
+- [Vue.js](https://vuejs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Vue Router](https://router.vuejs.org/)
+- [Font Awesome](https://fontawesome.com/)
+- [Vite](https://vitejs.dev/)
 
-```sh
-npm run build
-```
+## Contacto
 
-### Lint with [ESLint](https://eslint.org/)
+- Alexander Manriquez - <a href="alexander.manriquez.s@gmail.com">alexander.manriquez.s@gmail.com</a>
 
-```sh
-npm run lint
-```
+- LinkedIn: <a href="https://www.linkedin.com/in/alexander-manriquez/">Alexander Manriquez</a>
+
+- GitHub: <a href="https://github.com/AlexanderManriquez">AlexanderManriquez</a>
+
+- Visitalo aquí :<a href="https://alexander-manriquez-portafolio.vercel.app/">Portafolio</a>
