@@ -19,19 +19,19 @@
         <li class="font-semibold">Mis Habilidades</li>
       </ul>
       <ul class="p-6">
-        <li><i class="fa-brands fa-html5"></i> HTML 5</li>
-        <li><i class="fa-brands fa-css"></i> CSS 3</li>
-        <li><i class="fa-brands fa-js"></i> JavaScript</li>
+        <li><i class="fa-brands fa-html5 text-orange-500"></i> HTML 5</li>
+        <li><i class="fa-brands fa-css text-blue-700"></i> CSS 3</li>
+        <li><i class="fa-brands fa-js text-yellow-400"></i> JavaScript</li>
       </ul>
       <ul class="p-6">
-        <li><i class="fa-brands fa-git"></i> Git</li>
-        <li><i class="fa-solid fa-wind"></i> Tailwind</li>
-        <li><i class="fa-brands fa-sass"></i> Sass</li>
+        <li><i class="fa-brands fa-git text-rose-950"></i> Git</li>
+        <li><i class="fa-solid fa-wind text-sky-400"></i> Tailwind</li>
+        <li><i class="fa-brands fa-sass text-fuchsia-300"></i> Sass</li>
       </ul>
       <ul class="p-6">
-        <li><i class="fa-brands fa-github"></i> Github</li>
-        <li><i class="fa-brands fa-bootstrap"></i> Bootstrap</li>
-        <li><i class="fa-brands fa-vuejs"></i>   Vue.js</li>
+        <li><i class="fa-brands fa-github text-black"></i> Github</li>
+        <li><i class="fa-brands fa-bootstrap text-indigo-600"></i> Bootstrap</li>
+        <li><i class="fa-brands fa-vuejs text-emerald-400"></i>   Vue.js</li>
       </ul>
     </section>
 
