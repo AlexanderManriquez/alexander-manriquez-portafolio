@@ -39,7 +39,7 @@
       <p class="text-center">
         Si estás buscando un desarrollador Front End comprometido, creativo y apasionado, ¡no dudes en contactarme!
       </p>
-      <div class="block mx-auto mt-4 p-4 font-bold w-1/4 bg-slate-800 rounded-xl hover:bg-slate-700 transition duration-300">
+      <div class="block mx-auto my-4 p-4 font-bold w-2/3 md:w-1/4 bg-slate-800 rounded-xl hover:bg-slate-700 transition duration-300">
         <a href="mailto:alexander.manriquez.s@gmail.com" class="block text-center text-white">Escríbeme</a>
       </div>
     </section>

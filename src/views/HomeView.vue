@@ -24,7 +24,7 @@
       <li class="py-1 hover:text-cyan-500"><i class="fa-solid fa-globe text-cyan-500"></i> Sean accesibles y fáciles de usar para todos.</li>
       <li class="py-1 hover:text-amber-900"><i class="fa-solid fa-paint-roller text-amber-900"></i> Reflejen un diseño limpio, moderno y profesional.</li>
     </ul>
-    <div class="text-center mt-4">
+    <div class="text-center my-4">
       <a href="/projects" class="inline-block px-6 py-3 bg-blue-500 text-white font-bold rounded-full hover:bg-blue-700 transition duration-300">Ver Proyectos</a>
     </div>
   </article>
