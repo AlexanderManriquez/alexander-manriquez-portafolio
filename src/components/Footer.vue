@@ -5,11 +5,13 @@
     >
       <a
         href="https://www.linkedin.com/in/alexander-manriquez/"
+        target="_blank"
         class="rounded-md px-2 py-2 text-sm font-medium text-white hover:bg-gray-700 hover:text-gray-300"
         ><i class="fa-brands fa-linkedin text-white"></i
       ></a>
       <a
         href="https://github.com/AlexanderManriquez"
+        target="_blank"
         class="rounded-md px-2 py-2 text-sm font-medium text-white hover:bg-gray-700 hover:text-gray-300"
       >
         <i class="fa-brands fa-github text-white"></i>
