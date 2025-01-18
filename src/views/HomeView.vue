@@ -2,7 +2,7 @@
   <main class="flex flex-col md:flex-row justify-around my-2 fade-in">
     <figure class="w-full md:w-3/12 relative overflow-hidden">
       <img
-        class="p-1 block mx-auto rounded-full max-h-48"
+        class="p-1 block mx-auto rounded-full max-h-48 hover:opacity-75 transition-opacity duration-1000 hover:scale-125"
         src="https://i.imgur.com/rG1qTgL.jpeg"
         alt="Alexander Manriquez"
       />

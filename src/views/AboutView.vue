@@ -19,19 +19,19 @@
         <li class="font-semibold">Mis Habilidades</li>
       </ul>
       <ul class="p-6">
-        <li><i class="fa-brands fa-html5 text-orange-500"></i> HTML 5</li>
-        <li><i class="fa-brands fa-css text-blue-700"></i> CSS 3</li>
-        <li><i class="fa-brands fa-js text-yellow-400"></i> JavaScript</li>
+        <li><i class="fa-brands fa-html5 text-orange-500 text-3xl text-center"></i></li>
+        <li><i class="fa-brands fa-css text-blue-700 text-3xl text-center"></i></li>
+        <li><i class="fa-brands fa-js text-yellow-400 text-3xl text-center"></i></li>
       </ul>
       <ul class="p-6">
-        <li><i class="fa-brands fa-git text-rose-950"></i> Git</li>
-        <li><i class="fa-solid fa-wind text-sky-400"></i> Tailwind</li>
-        <li><i class="fa-brands fa-sass text-fuchsia-300"></i> Sass</li>
+        <li><i class="fa-brands fa-git text-rose-950 text-3xl text-center"></i></li>
+        <li><i class="fa-solid fa-wind text-sky-400 text-3xl text-center"></i></li>
+        <li><i class="fa-brands fa-sass text-fuchsia-300 text-3xl text-center"></i></li>
       </ul>
       <ul class="p-6">
-        <li><i class="fa-brands fa-github text-black"></i> Github</li>
-        <li><i class="fa-brands fa-bootstrap text-indigo-600"></i> Bootstrap</li>
-        <li><i class="fa-brands fa-vuejs text-emerald-400"></i> Vue.js</li>
+        <li><i class="fa-brands fa-github text-black text-3xl text-center"></i></li>
+        <li><i class="fa-brands fa-bootstrap text-indigo-600 text-3xl text-center"></i></li>
+        <li><i class="fa-brands fa-vuejs text-emerald-400 text-3xl text-center"></i></li>
       </ul>
     </section>
 
