@@ -18,12 +18,12 @@
       </p>
     </article>
   </main>
-  <article class="w-full md:w-2/3 m-auto py-5 fade-in">
+  <article class="w-full md:w-2/3 mx-auto mt-10 md:mt-24 py-5 fade-in">
     <ul class="w-full md:w-1/2 m-auto text-center">
       <li class="py-1 hover:font-bold">Estoy comprometido con el desarrollo de páginas web que:</li>
-      <li class="py-1 hover:text-zinc-400 hover:font-bold"><i class="fa-solid fa-mobile text-zinc-400"></i> Se adapten perfectamente a cualquier dispositivo.</li>
-      <li class="py-1 hover:text-cyan-500 hover:font-bold"><i class="fa-solid fa-globe text-cyan-500"></i> Sean accesibles y fáciles de usar para todos.</li>
-      <li class="py-1 hover:text-amber-900 hover:font-bold"><i class="fa-solid fa-paint-roller text-amber-900"></i> Reflejen un diseño limpio, moderno y profesional.</li>
+      <li class="py-1 transition ease-in-out delay-150 hover:scale-110 hover:text-zinc-400 hover:font-bold"><i class="fa-solid fa-mobile text-zinc-400"></i> Se adapten perfectamente a cualquier dispositivo.</li>
+      <li class="py-1 transition ease-in-out delay-150 hover:scale-110  hover:text-cyan-500 hover:font-bold"><i class="fa-solid fa-globe text-cyan-500"></i> Sean accesibles y fáciles de usar para todos.</li>
+      <li class="py-1 transition ease-in-out delay-150 hover:scale-110  hover:text-amber-900 hover:font-bold"><i class="fa-solid fa-paint-roller text-amber-900"></i> Reflejen un diseño limpio, moderno y profesional.</li>
     </ul>
     <div class="text-center my-4">
       <a href="/projects" class="inline-block px-6 py-3 bg-blue-500 text-white font-bold rounded-full hover:bg-blue-700 transition duration-300">Ver Proyectos</a>
@@ -57,23 +57,4 @@ export default {
   animation: fadeIn 1s forwards;
 }
 
-.hover\:text-zinc-400:hover {
-  color: #a1a1aa;
-}
-
-.hover\:text-cyan-500:hover {
-  color: #06b6d4;
-}
-
-.hover\:text-amber-900:hover {
-  color: #78350f;
-}
-
-.hover\:bg-blue-700:hover {
-  background-color: #1d4ed8;
-}
-
-.hover\:font-bold:hover {
-  font-weight: 700;
-}
 </style>
