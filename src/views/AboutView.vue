@@ -36,7 +36,7 @@
       <ul class="p-6">
         <li><i data-tooltip-target="tooltip-html" data-tooltip-placement="top" class="fa-brands fa-html5 text-orange-500 text-3xl text-center ml-6"></i></li>
         <li><i data-tooltip-target="tooltip-css" data-tooltip-placement="right" class="fa-brands fa-css text-blue-700 text-3xl text-center ml-6"></i></li>
-        <li><i data-tooltip-target="tooltip-js" data-tooltip-placement="bottom" class="fa-brands fa-js text-yellow-400 text-3xl text-center ml-6"></i></li>
+        <li><i data-tooltip-target="tooltip-js" data-tooltip-placement="bottom" class="fa-brands fa-js text-yellow-300 text-3xl text-center ml-6"></i></li>
       </ul>
       <ul class="p-6">
         <li><i data-tooltip-target="tooltip-bs" data-tooltip-placement="top" class="fa-brands fa-bootstrap text-indigo-600 text-3xl text-center ml-6"></i></li>
